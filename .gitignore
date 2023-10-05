@@ -1,0 +1,9 @@
+# Specify filepatterns you want git to ignore.
+
+.vs/**
+PropertyBasedTesting.Console/bin/**
+PropertyBasedTesting.Console/obj/**
+PropertyBasedTesting.Test/bin/**
+PropertyBasedTesting.Test/obj/**
+bin/**
+obj/**
